@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Eclipse Kepler
+Comment=Eclipse Kepler SR2 4.3.2
+Exec=eclipse
+Icon=/opt/kepler/eclipse/icon.xpm
+Terminal=false
+Type=Application
+Categories=GNOME;Application;Development;
+StartupNotify=true

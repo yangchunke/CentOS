@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Eclipse ScalaIDE 4.11
+Comment=Eclipse ScalaIDE 4.11
+Exec=/opt/scala-411/eclipse/eclipse
+Icon=/opt/scala-411/eclipse/icon.xpm
+Terminal=false
+Type=Application
+Categories=GNOME;Application;Development;
+StartupNotify=true
