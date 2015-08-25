@@ -19,7 +19,7 @@ alias ....='cd ../../..'
 alias e='vim'
 alias v='more'
 alias del='\rm'
-alias dir='ls -al'
+alias dir='ls -al --color=auto'
 
 alias root='cd /'
 alias home='cd ~'
@@ -30,7 +30,7 @@ alias proto='cd ~/TETeam/TESparkProto'
 alias crCached='ccollab addgitdiffs new --cached'
 alias crCommited='ccollab addgitdiffs new master^ master'
 
-alias ub='cp ~/work/git/CentOS.bashrc ~/.bashrc'
+alias ub='cp ~/work/git/CentOS/.bashrc ~/.bashrc'
 alias pb='cp ~/.bashrc ~/work/git/CentOS/.bashrc'
 
 # ----------- Kafka --------------
