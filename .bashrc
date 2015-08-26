@@ -17,13 +17,17 @@ alias ...='cd ../..'
 alias ....='cd ../../..'
 
 alias e='vim'
+alias h='cd ~'
+alias r='cd /'
 alias v='more'
+alias w='cd ~/work'
+
+alias wg='cd ~/work/git'
+alias we='cd ~/work/external'
+
 alias del='\rm'
 alias dir='ls -al --color=auto'
 
-alias root='cd /'
-alias home='cd ~'
-alias work='cd ~/work'
 alias pilot='cd ~/TETeam/TEPilot'
 alias proto='cd ~/TETeam/TESparkProto'
 
