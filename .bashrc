@@ -30,6 +30,7 @@ alias dir='ls -al --color=auto'
 
 alias pilot='cd ~/TETeam/TEPilot'
 alias proto='cd ~/TETeam/TESparkProto'
+alias plm='cd ~/TETeam/plmalgo'
 
 alias crCached='ccollab addgitdiffs new --cached'
 alias crCommited='ccollab addgitdiffs new master^ master'
