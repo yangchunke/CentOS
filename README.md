@@ -1,2 +1,2 @@
-# CentOS
-some useful scripts for CentOS 
+# Linux
+some useful scripts for CentOS/Ubuntu 
